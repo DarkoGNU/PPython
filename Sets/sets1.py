@@ -15,8 +15,8 @@ setC = set(arrayC)
 sets = [setA, setB, setC]
 
 print("\nPrinting sets: ")
-for set in sets:
-    print(set)
+for setVar in sets:
+    print(setVar)
 
 # Exercise 3
 
